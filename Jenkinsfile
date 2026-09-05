@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        DOCKER_REPO = 'Njilembertrand/landmark-web-app'
+        DOCKER_REPO = 'njilembertrand/landmark-web-app'
         IMAGE_TAG   = "build-${BUILD_NUMBER}"
     }
 
