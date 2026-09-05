@@ -12,6 +12,7 @@ A full-stack web application for Landmark Technologies — an online DevOps and 
 - **Containerization:** Docker, Docker Compose
 - **Orchestration:** Kubernetes (EKS)
 - **CI/CD:** GitHub Actions, Jenkins, CircleCI
+- **Good work
 
 ---
 
